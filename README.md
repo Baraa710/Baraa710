@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Baraa, I am a third year student in Computer Engineering at UofT and pursuing a minor in biomedical engineering
+- 👋 Hi, I’m Baraa, I am a fourth year student in Computer Engineering at UofT and pursuing a minor in biomedical engineering
 - I have experience with C, C++, Python, HTML, and CSS
 - 📫 Email: alchalabi.baraa@gmail.com
 
