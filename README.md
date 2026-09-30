@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Baraa, I am a fourth year student in Computer Engineering at UofT and pursuing a minor in biomedical engineering
-- I have experience with C, C++, Python, React, HTML, and CSS
+- 👋 Hi, I’m Baraa, recent UofT graduate with BASc in computer Eningeering and minor in biomedical engineering
+- I usually code with C, C++, Python, React Native, HTML, and CSS. Now learning Kotlin to get into mobile app development.
 - 📫 Email: alchalabi.baraa@gmail.com
 
 <!---
